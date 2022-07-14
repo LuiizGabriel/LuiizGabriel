@@ -1,4 +1,4 @@
-### OLÁ! MIM CHAMO LUIZ GABRIEL SEJA BEM VINDO... 👋
+### OLÁ! SEJA MUITO BEM VINDO, MEU NOME E LUIZ GABRIEL... 👋
 
 - 🔭 Em Trasformação Para Ser Otimo fullstack ..
 - 😄 Pronomes: ele/Dele..
