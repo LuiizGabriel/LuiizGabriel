@@ -1,8 +1,15 @@
-### olá! Eu sou o Luiz Gabriel 👋
+### OLÁ! MIM CHAMO LUIZ GABRIEL SEJA BEM VINDO... 👋
+### HELLO! I CALL LUIZ GABRIEL WELCOME...
+### ¡HOLA! LLAMO A LUIZ GABRIEL BIENVENIDOS...
 
-- 🔭 Hoje trabalho como fullstack 
-- 😄 Pronomes: ele/Dele
+- 🔭 Em Trasformação Para Ser Otimo fullstack ..
+- 😄 Pronomes: ele/Dele..
 - ⚡ Fun fact: ...
+- 👨‍👩‍👧 Familia: ❤..
+- 🐶 Paixao Pelos Animais: Dog,PitBull🦴..
+- ⚽ Paixão Por Futebol..
+- 🎷 Musicas..
+- 🖥🖱📡🔌 Apaixonado Por Tecnologia..
 
 <div align="center">
   <a href="https://github.com/luizgabriel2802">
