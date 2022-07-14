@@ -1,7 +1,6 @@
 ### olá! Eu sou o Luiz Gabriel 👋
 
-- 🔭 Hoje trabalho como fullstack
-- 🌱 Estudando todas linguadens 
+- 🔭 Hoje trabalho como fullstack 
 - 😄 Pronomes: ele/Dele
 - ⚡ Fun fact: ...
 
