@@ -1,11 +1,8 @@
 ### OLÁ! SEJA MUITO BEM VINDO, MEU NOME E LUIZ GABRIEL... 👋
 
-- 🔭 Em Trasformação Para Ser Otimo fullstack ..
-- 😄 Pronomes: ele/Dele..
-- ⚡ Fun fact: ...
 - 👨‍👩‍👧 Familia: ❤..
-- 🐶 Paixao Pelos Animais: Dog,PitBull🦴..
-- ⚽ Paixão Por Futebol..
+- 🐶 Paixao Pelos Animais:Amora,PitBull🦴..
+- ⚽ Louco Por Futebol..
 - 🎷 Musicas..
 - 🖥🖱📡🔌 Apaixonado Por Tecnologia..
 
